@@ -1,1 +1,1 @@
-# ffmpeg-scrips-project
+# ffmpeg-scripts-project
